@@ -1,4 +1,4 @@
-# •java-jackpot
+# java-jackpot
 
 Software que simula uma máquina de Cassino, apenas para diversão.
 
