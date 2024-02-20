@@ -22,6 +22,6 @@ Software que simula uma máquina de Cassino, apenas para diversão.
 
 ## • Observações
 
-**⚠️ Projeto para fins educativos. Sem finalidades lucrativas. ⚠️**
+**⚠️ Projeto com finalidades educativas. Sem fins lucrativ0s. ⚠️**
 
 
