@@ -14,7 +14,7 @@ Software que simula uma máquina de Cassino, apenas para diversão.
 4. Instale o host de servidores abertos **[XAMPP](https://www.apachefriends.org/download.html).**
 5. Inicie o serviço do Mysql: No Xampp Control Panel, clique no botão “Start” ao lado do serviço do Mysql.
 6. Com o Xampp aberto,xecute o **HeidiSQL**. Clique em `Nova` no canto inferior esquerdo e depois na opção `Sessão, na pasta raiz`. Escolha um nome para a nova sessão. Como tipo de rede, escolha "MySQL (TCP/IP)". Informe o "Servidor / IP" como sendo o seu domínio ou nome do servidor. O "Usuário", "Senha" e "Bancos de dados" são o usuário, senha e o banco de dados, respectivamente. Clique em "Salvar" perto do canto inferior esquerdo para gravar a sessão e, em seguida, "Abrir", para testar a conexão. **Caso não seja definido usuário e senha por padrão: usuário "root" e a senha vazia.**
-7. com o HeidiSQL aberto vá para a raíz do projeto clonado e execute o arquivo **.sql** ``
+7. com o HeidiSQL aberto vá para a raíz do projeto clonado e execute o arquivo **.sql** `database_jackpot.sql`
 
 ## • Tecnologias e Linguagens
 
