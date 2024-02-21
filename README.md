@@ -11,7 +11,9 @@ Software que simula uma máquina de Cassino, apenas para diversão.
 1. Clone este repositório.
 2. Instale o ambiente de desenvolvimento **[NetBeans](https://netbeans.apache.org/front/main/download/index.html).**
 3. Instale o gerenciador de banco de dados **[HeidiSQL](https://www.heidisql.com/download.php).**
-4. Instale o host 
+4. Instale o host de servidores abertos **[XAMPP](https://www.apachefriends.org/download.html).**
+5. Inicie o serviço do Mysql: No Xampp Control Panel, clique no botão “Start” ao lado do serviço do Mysql.
+6.Inicie o **HeidiSQL**, Clique em "Nova" no canto inferior esquerdo e depois na opção "Sessão, na pasta raiz".
 
 
 ## • Tecnologias e Linguagens
