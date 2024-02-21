@@ -8,9 +8,10 @@ Software que simula uma máquina de Cassino, apenas para diversão.
 
 ## • Instalação e Uso
 
-1. Clone o repositório.
-2. Instale o **[NetBeans](https://netbeans.apache.org/front/main/download/index.html).**
-3. Instale o **[HeidiSQL](https://www.heidisql.com/download.php).**
+1. Clone este repositório.
+2. Instale o ambiente de desenvolvimento **[NetBeans](https://netbeans.apache.org/front/main/download/index.html).**
+3. Instale o gerenciador de banco de dados **[HeidiSQL](https://www.heidisql.com/download.php).**
+4. Instale o host 
 
 
 ## • Tecnologias e Linguagens
