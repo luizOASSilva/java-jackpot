@@ -13,8 +13,8 @@ Software que simula uma máquina de Cassino, apenas para diversão.
 3. Instale o gerenciador de banco de dados **[HeidiSQL](https://www.heidisql.com/download.php).**
 4. Instale o host de servidores abertos **[XAMPP](https://www.apachefriends.org/download.html).**
 5. Inicie o serviço do Mysql: No Xampp Control Panel, clique no botão “Start” ao lado do serviço do Mysql.
-6.Inicie o **HeidiSQL**, Clique em "Nova" no canto inferior esquerdo e depois na opção "Sessão, na pasta raiz".
-
+6. Com o Xampp aberto,xecute o **HeidiSQL**. Clique em `Nova` no canto inferior esquerdo e depois na opção `Sessão, na pasta raiz`.
+7. 
 
 ## • Tecnologias e Linguagens
 
