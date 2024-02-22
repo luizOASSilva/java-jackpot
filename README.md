@@ -1,10 +1,10 @@
-# java-jackpot
+# java-Caça_Níquel
 
 Software que simula uma máquina de Cassino, apenas para diversão.
 
 ## • Funcionalidades
 
-**Simula um Jackpot:** Insira um valor, comece a rodada e tente ganhar.
+**Simula um Caça Níquel:** Insira um valor, comece a rodada e tente ganhar.
 
 ## • Instalação e Uso
 
