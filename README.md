@@ -1,4 +1,4 @@
-# java-Caça_Níquel
+# java-jackpot
 
 Software que simula uma máquina de Cassino, apenas para diversão.
 
